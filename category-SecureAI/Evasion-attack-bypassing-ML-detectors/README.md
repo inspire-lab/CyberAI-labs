@@ -1,0 +1,3 @@
+# Evasion Attacks – Bypassing Machine Learning Detectors
+
+This lab focuses on evasion attacks against machine learning-based detection systems, demonstrating how adversarial examples can be crafted to bypass classifiers. Students will build a detector to distinguish between handwritten digits (0 and 1) from the MNIST dataset and then generate adversarial examples to fool it. The lab explores real-world evasion techniques relevant to spam detection, fraud detection, and malware classification, highlighting how attackers manipulate inputs to avoid being flagged while maintaining visual or structural similarity to legitimate data.
