@@ -1,0 +1,2 @@
+# Classifying between Hate Speech and Offensive Language
+This lab focuses on natural language processing (NLP) techniques for detecting hate speech and offensive language in social media data. Using a labeled dataset of tweets, students will experiment with traditional classification approaches, pre-trained word embeddings (GloVe), and custom-trained embeddings to improve model performance. The lab emphasizes the complexities of subjective labeling and the challenges in distinguishing hate speech from offensive language. 
