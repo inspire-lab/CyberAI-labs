@@ -1,0 +1,2 @@
+# Intrusion Detection and Prevention
+In this lab, students will explore various methods for detecting and preventing intrusions using numeric data, traces, and time-based information. The focus is on handling large datasets with extensive features, applying feature selection techniques, and evaluating model performance. The dataset used is adapted from the CICIDS dataset, providing realistic network intrusion scenarios. 
