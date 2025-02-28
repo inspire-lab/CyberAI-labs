@@ -1,0 +1,2 @@
+# Different Privacy - PATE
+This lab explores the Private Aggregation of Teacher Ensembles (PATE) framework, a differential privacy technique for training machine learning models while protecting individual data privacy. Using PyTorch, students will train an ensemble of teacher models on separate subsets of the MNIST dataset and aggregate their predictions to guide a student model with added noise to ensure privacy. The lab demonstrates how ensemble-based privacy mechanisms can be used to train robust models while minimizing data exposure.
