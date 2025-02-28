@@ -1,0 +1,3 @@
+# Training an Encrypted Neural Network using Secure Multiparty Computation
+
+This lab explores secure multi-party computation (MPC) for privacy-preserving neural network training using CrypTen. Students will implement a two-party training setup where Alice and Bob each possess a portion of the MNIST dataset and collaboratively train a neural network without revealing their private data. The lab focuses on feature aggregation, where data from multiple sources is combined securely to improve model performance while maintaining privacy. This demonstrates how MPC can enable collaborative machine learning in sensitive applications such as healthcare and finance.
