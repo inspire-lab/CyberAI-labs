@@ -1,0 +1,3 @@
+# Privacy Attacks on Machine Learning Data - Model Inversion
+This lab focuses on model inversion attacks, a type of privacy attack where an adversary attempts to reconstruct sensitive information about the training data from a trained model. Using an MNIST classifier, students will implement Fredrikson et al.'s (2015) MI-Face algorithm with the Adversarial Robustness Toolbox (ART) to recover structural features of training samples. The lab explores various initialization techniques, such as using white, grey, black, random, and average images, demonstrating how attackers can infer private details about training data, raising concerns about model security and privacy.
+
