@@ -1,0 +1,3 @@
+# Training and Evaluation of Logistic Regression on Encrypted Data using Homomorphic Encryption
+
+This lab focuses on homomorphic encryption (HE) for secure model training and evaluation. Using TenSEAL, students will train and test a logistic regression (LR) model on encrypted data for heart disease prediction. The dataset includes patient records, and the lab demonstrates how encrypted computations can provide privacy while maintaining model performance comparable to plaintext training. This lab highlights the feasibility and challenges of privacy-preserving machine learning in healthcare applications.
